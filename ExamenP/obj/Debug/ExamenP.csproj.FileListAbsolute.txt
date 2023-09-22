@@ -1,0 +1,92 @@
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.AssemblyReference.cache
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.Inicio.resources
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.Properties.Resources.resources
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.GenerateResource.cache
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\ExamenP.exe.config
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\ExamenP.exe
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\ExamenP.pdb
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Npgsql.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Buffers.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Memory.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Text.Json.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Threading.Channels.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.ValueTuple.dll
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\Npgsql.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Buffers.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Collections.Immutable.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Memory.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Text.Json.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Threading.Channels.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\bin\Debug\System.ValueTuple.xml
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.CopyComplete
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.exe
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.pdb
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FCiudad.resources
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FPersona.resources
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FCliente.resources
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FMovimientos.resources
+C:\Users\RYZEN5\source\repos\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FCuentas.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\ExamenP.exe.config
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\ExamenP.exe
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\ExamenP.pdb
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Npgsql.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Buffers.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Collections.Immutable.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Memory.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Text.Json.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Threading.Channels.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.ValueTuple.dll
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\Npgsql.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Buffers.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Collections.Immutable.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Memory.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Text.Json.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Threading.Channels.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\bin\Debug\System.ValueTuple.xml
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.AssemblyReference.cache
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FRMCiudad.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FRMCliente.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FRMCuentas.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FRMMovimientos.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.forms.FRMPersona.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.Inicio.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.Properties.Resources.resources
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.GenerateResource.cache
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.CoreCompileInputs.cache
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.csproj.CopyComplete
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.exe
+C:\Users\enriq\Downloads\ExamenP (1)\ExamenP\ExamenP\obj\Debug\ExamenP.pdb
